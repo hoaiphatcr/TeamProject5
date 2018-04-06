@@ -1,13 +1,6 @@
-.row{
-    margin-left:0px;
-    margin-right:0px;
-}
 
-#wrapper {
-    padding-left: 70px;
-    transition: all .4s ease 0s;
-    height: 100%
-}
+
+
 
 #sidebar-wrapper {
     margin-left: -150px;
@@ -36,9 +29,7 @@
     left: 150px;
 }
 
-#page-content-wrapper {
-  width: 100%;
-}
+
 
 #sidebar_menu li a, .sidebar-nav li a {
     color: #999;
